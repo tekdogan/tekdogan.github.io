@@ -1,6 +1,8 @@
 ## Short Bio
 I am currently a software design engineer for Digital Signal Processing (DSP) projects. I've hands-on experience with C, C++ and Pyton. I'm also interested in Graph Neural Networks (GNNs) and their characteristics on GPGPUs.
 
+---
+
 ## Education
 
 - ### Master's Degree • Istanbul Technical University <img src="./itu.jpg" width="40">
@@ -9,6 +11,7 @@ I am currently a software design engineer for Digital Signal Processing (DSP) pr
 - ### Bachelor's Degree • Ankara University University <img src="./au.png" width="50">
   - Computer Engineering • 2015 - 2019
 
+---
 
 ## Experience
 
@@ -20,6 +23,8 @@ I am currently a software design engineer for Digital Signal Processing (DSP) pr
 
 - ### Intern • UDEA Electronics  <img src="./udea.png" width="60">
   - Aug - Sep 2017 (2 months)
+
+---
 
 ## Publications
 
