@@ -12,13 +12,13 @@ I am currently a software design engineer for Digital Signal Processing (DSP) pr
 
 ## Experience
 
-- ### Software Design Engineer • ASELSAN Inc. <img src="./asel.jpg" width="50">
+- ### Software Design Engineer • ASELSAN Inc.  <img src="./asel.jpg" width="50">
   - Feb 2019 - Present
 
-- ### Intern • ASELSAN Inc. <img src="./asel.jpg" width="50">
+- ### Intern • ASELSAN Inc.  <img src="./asel.jpg" width="50">
   - Jul - Aug 2018 (2 months)
 
-- ### Intern • UDEA Electronics <img src="./udea.png" width="60">
+- ### Intern • UDEA Electronics  <img src="./udea.png" width="60">
   - Aug - Sep 2017 (2 months)
 
 ## Publications
