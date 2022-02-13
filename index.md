@@ -1,5 +1,5 @@
 ## Short Bio
-I am currently a software design engineer for Digital Signal Processing (DSP) projects. I've hands-on experience with C, C++ and Pyton. I'm also interested in Graph Neural Networks (GNNs) and their characteristics on GPGPUs.
+I am currently a software design engineer for Digital Signal Processing (DSP) projects. I've hands-on experience with C, C++ and Python. I'm passionately interested in Graph Neural Networks (GNNs) and their characteristics on GPGPUs.
 
 ---
 
