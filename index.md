@@ -1,5 +1,5 @@
 ## Short Bio
-I am currently a software design engineer for Digital Signal Processing (DSP) projects. I've hands-on experience with C, C++ and Python. I'm passionately interested in Graph Neural Networks (GNNs) and their characteristics on GPGPUs.
+I am currently a software design engineer for Digital Signal Processing ([DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)) projects. I've hands-on experience with C, C++ and Python. I'm passionately interested in Graph Neural Networks ([GNNs](https://en.wikipedia.org/wiki/Graph_neural_network)) and their characteristics on GPGPUs.
 
 ---
 
@@ -8,7 +8,7 @@ I am currently a software design engineer for Digital Signal Processing (DSP) pr
 - ### Master's Degree • Istanbul Technical University <img src="./itu.jpg" width="40">
   - Computer Engineering • 2020 - Present
 
-- ### Bachelor's Degree • Ankara University University <img src="./au.png" width="50">
+- ### Bachelor's Degree • Ankara University <img src="./au.png" width="50">
   - Computer Engineering • 2015 - 2019
 
 ---
