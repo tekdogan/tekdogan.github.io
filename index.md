@@ -7,7 +7,7 @@ I am currently a software design engineer for Digital Signal Processing ([DSP](h
 ## Publications
 
 - ### gSuite: A Flexible and Framework Independent Benchmark Suite for Graph Neural Network Inference on GPUs
-  - **T. Tekdogan**, S. Goktas, and A. Yilmazer-Metin • 2022 • IEEE International Symposium on Workload Characterization (IISWC) • November 2022 • _Accepted, to be published_
+  - **T. Tekdogan**, S. Goktas, and A. Yilmazer-Metin • 2022 • IEEE International Symposium on Workload Characterization (IISWC) • November 2022 • _Accepted, to be published_. [_arXiv preprint_](https://arxiv.org/abs/2210.11601)
 
 - ### Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification
   - **T. Tekdogan** and A. Cakmak • 2021 • 5th International Conference on Cloud and Big Data Computing (ICCBDC) • August 2021 • Pages 15–20 • [ACM International Conference Proceedings Series (ICPS) 2021](https://dl.acm.org/doi/fullHtml/10.1145/3481646.3481649). [(_ResearchGate preprint link_)](https://www.researchgate.net/publication/356569198_Benchmarking_Apache_Spark_and_Hadoop_MapReduce_on_Big_Data_Classification).
