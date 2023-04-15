@@ -1,21 +1,22 @@
 ## Short Bio
-I am currently a software design engineer for Digital Signal Processing ([DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)) projects. I've hands-on experience with C, C++ and Python. I'm passionately interested in Graph Neural Networks ([GNNs](https://en.wikipedia.org/wiki/Graph_neural_network)) and their characteristics on GPGPUs.
+I am currently a software design engineer for Digital Signal Processing ([DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)) projects. I've hands-on experience with C, C++, CUDA, and Python. I'm passionately interested in Graph Neural Networks ([GNNs](https://en.wikipedia.org/wiki/Graph_neural_network)) and their characteristics on GPGPUs.
 
 ---
 
 
 ## Publications
 
-
+- ### GPGPU Application for Signal Processing – An Implementation for DDC Algorithm
+  - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • _Accepted, to be published in the conference proceedings_
 
 - ### Analyzing the Traffic of MANETs using Graph Neural Networks
-  - **T. Tekdogan** • 2022 • International Conference on Machine Learning & Applied Network Technologies (ICMLANT) • December 2022 • _Accepted, to be published in IEEE Conference Proceedings_ • [_ResearchGate preprint_](https://www.researchgate.net/publication/366274996_Analyzing_the_Traffic_of_MANETs_using_Graph_Neural_Networks)
+  - **T. Tekdogan** • 2022 • International Conference on Machine Learning & Applied Network Technologies (ICMLANT) • December 2022 • _Published in the IEEE Conference Proceedings_ • [_IEEE Xplore link_](https://ieeexplore.ieee.org/document/9996518) • [_arXiv preprint_](https://arxiv.org/abs/2212.08923)
 
-- ### gSuite: A Flexible and Framework Independent Benchmark Suite for Graph Neural Network Inference on GPUs
-  - **T. Tekdogan**, S. Goktas, and A. Yilmazer-Metin • 2022 • IEEE International Symposium on Workload Characterization (IISWC) • November 2022 • _Accepted, to be published in IEEE Conference Proceedings_ • [_arXiv preprint_](https://arxiv.org/abs/2210.11601)
+- ### ⭐ gSuite: A Flexible and Framework Independent Benchmark Suite for Graph Neural Network Inference on GPUs
+  - **T. Tekdogan**, S. Goktas, and A. Yilmazer-Metin • 2022 • IEEE International Symposium on Workload Characterization (IISWC) • November 2022 • _Published in the IEEE Conference Proceedings_ • [_IEEE Xplore link_](https://ieeexplore.ieee.org/abstract/document/9975401) • [_arXiv preprint_](https://arxiv.org/abs/2210.11601)
 
 - ### Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification
-  - **T. Tekdogan** and A. Cakmak • 2021 • 5th International Conference on Cloud and Big Data Computing (ICCBDC) • August 2021 • Published in [ACM International Conference Proceedings Series (ICPS) 2021](https://dl.acm.org/doi/fullHtml/10.1145/3481646.3481649) • Pages 15–20 • [_arXiv preprint_](https://arxiv.org/abs/2209.10637)
+  - **T. Tekdogan** and A. Cakmak • 2021 • 5th International Conference on Cloud and Big Data Computing (ICCBDC) • August 2021 • Published in the [ACM International Conference Proceedings Series (ICPS) 2021](https://dl.acm.org/doi/fullHtml/10.1145/3481646.3481649) • Pages 15–20 • [_arXiv preprint_](https://arxiv.org/abs/2209.10637)
 
 
 ---
@@ -33,7 +34,7 @@ I am currently a software design engineer for Digital Signal Processing ([DSP](h
 ## Education
 
 - ### Master's Degree • Istanbul Technical University <img src="./itu.jpg" width="40">
-  - Computer Engineering • 2020 - Present
+  - Computer Engineering • 2020 - 2023
 
 - ### Bachelor's Degree • Ankara University <img src="./au.png" width="50">
   - Computer Engineering • 2015 - 2019
