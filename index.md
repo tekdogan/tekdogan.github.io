@@ -1,5 +1,5 @@
 ## Short Bio
-I am currently a software design engineer for Digital Signal Processing ([DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)) projects. I've hands-on experience with C, C++, CUDA, and Python. I'm passionately interested in Graph Neural Networks ([GNNs](https://en.wikipedia.org/wiki/Graph_neural_network)) and their characteristics on GPGPUs.
+I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU Berlin, working on the project [NebulaStream](https://nebula.stream/).
 
 ---
 
@@ -7,7 +7,7 @@ I am currently a software design engineer for Digital Signal Processing ([DSP](h
 ## Publications
 
 - ### GPGPU Application for Signal Processing – An Implementation for DDC Algorithm
-  - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • _Accepted, to be published in the conference proceedings_
+  - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • _Accepted and [_published_](https://ekitap.atauni.edu.tr/index.php/16-ulusal-yazilim-muhendisligi-sempozyumu-bildiri-kitabi/) in the conference proceedings._
 
 - ### Analyzing the Traffic of MANETs using Graph Neural Networks
   - **T. Tekdogan** • 2022 • International Conference on Machine Learning & Applied Network Technologies (ICMLANT) • December 2022 • _Published in the IEEE Conference Proceedings_ • [_IEEE Xplore link_](https://ieeexplore.ieee.org/document/9996518) • [_arXiv preprint_](https://arxiv.org/abs/2212.08923)
@@ -33,6 +33,9 @@ I am currently a software design engineer for Digital Signal Processing ([DSP](h
 
 ## Education
 
+- ### PhD • Technische Universität Berlin <img src="./tu.jpg" width="40">
+  - Computer Science • 2023 - Now
+
 - ### Master's Degree • Istanbul Technical University <img src="./itu.jpg" width="40">
   - Computer Engineering • 2020 - 2023
 
@@ -43,8 +46,11 @@ I am currently a software design engineer for Digital Signal Processing ([DSP](h
 
 ## Experience
 
+- ### Research Associate • Technische Universität Berlin <img src="./tu.jpg" width="50">
+  - Dec 2023 - Now
+
 - ### Software Design Engineer • ASELSAN Inc.  <img src="./asel.jpg" width="50">
-  - Feb 2019 - Present
+  - Feb 2019 - Dec 2023
 
 - ### Intern • ASELSAN Inc.  <img src="./asel.jpg" width="50">
   - Jul - Aug 2018 (2 months)
