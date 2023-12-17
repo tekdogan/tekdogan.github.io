@@ -33,7 +33,7 @@ I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU B
 
 ## Education
 
-- ### PhD • Technische Universität Berlin <img src="./tu.jpg" width="40">
+- ### PhD • Technische Universität Berlin <img src="./tu.png" width="40">
   - Computer Science • 2023 - Now
 
 - ### Master's Degree • Istanbul Technical University <img src="./itu.jpg" width="40">
@@ -46,7 +46,7 @@ I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU B
 
 ## Experience
 
-- ### Research Associate • Technische Universität Berlin <img src="./tu.jpg" width="50">
+- ### Research Associate • Technische Universität Berlin <img src="./tu.png" width="50">
   - Dec 2023 - Now
 
 - ### Software Design Engineer • ASELSAN Inc.  <img src="./asel.jpg" width="50">
