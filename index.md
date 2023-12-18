@@ -15,7 +15,7 @@ I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU B
 - ### ⭐ gSuite: A Flexible and Framework Independent Benchmark Suite for Graph Neural Network Inference on GPUs
   - **T. Tekdogan**, S. Goktas, and A. Yilmazer-Metin • 2022 • IEEE International Symposium on Workload Characterization (IISWC) • November 2022 • _Published in the IEEE Conference Proceedings_ • [_IEEE Xplore link_](https://ieeexplore.ieee.org/abstract/document/9975401) • [_arXiv preprint_](https://arxiv.org/abs/2210.11601)
 
-- ### Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification
+- ### ⭐ Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification
   - **T. Tekdogan** and A. Cakmak • 2021 • 5th International Conference on Cloud and Big Data Computing (ICCBDC) • August 2021 • Published in the [ACM International Conference Proceedings Series (ICPS) 2021](https://dl.acm.org/doi/fullHtml/10.1145/3481646.3481649) • Pages 15–20 • [_arXiv preprint_](https://arxiv.org/abs/2209.10637)
 
 
@@ -46,7 +46,7 @@ I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU B
 
 ## Experience
 
-- ### Research Associate • Technische Universität Berlin <img src="./tu.png" width="50">
+- ### Research Associate • TU Berlin <img src="./tu.png" width="50">
   - Dec 2023 - Now
 
 - ### Software Design Engineer • ASELSAN Inc.  <img src="./asel.jpg" width="50">
