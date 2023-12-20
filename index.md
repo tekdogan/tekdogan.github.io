@@ -1,5 +1,8 @@
 ## Short Bio
-I am currently a research associate at [DIMA](https://www.tu.berlin/dima) / TU Berlin, working on the project [NebulaStream](https://nebula.stream/).
+I am a research associate at [DIMA](https://www.tu.berlin/dima) / TU Berlin, and currently working on the project [NebulaStream](https://nebula.stream/).
+I am also a member of the graduate school of the [BIFOLD](https://www.bifold.berlin/) (Berlin Institue for the Foundations of Learning and Data).
+
+My research interests include Energy Efficiency, Benchmarking, and Performance Evaluation of the Distributed Stream Data Processing Systems.
 
 ---
 
