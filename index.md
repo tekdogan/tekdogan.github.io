@@ -1,13 +1,14 @@
 ## Short Bio
-I am a research associate at [DIMA](https://www.tu.berlin/dima) / TU Berlin, and currently working on the project [NebulaStream](https://nebula.stream/).
-I am also a member of the graduate school of the [BIFOLD](https://www.bifold.berlin/) (Berlin Institue for the Foundations of Learning and Data).
+I am a research associate at [DIMA](https://www.tu.berlin/en/dima) / TU Berlin, and currently working on the project [NebulaStream](https://nebula.stream/).
+I am also a member of the graduate school of the [BIFOLD](https://www.bifold.berlin/) (Berlin Institute for the Foundations of Learning and Data).
 
 My research interests include Energy Efficiency, Benchmarking, and Performance Evaluation of the Distributed Stream Data Processing Systems.
 
 ---
 
 
-## Publications
+## Publications 📜
+_(in reverse chronological order)_
 
 - ### GPGPU Application for Signal Processing – An Implementation for DDC Algorithm
   - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • _Accepted and [published](https://ekitap.atauni.edu.tr/index.php/16-ulusal-yazilim-muhendisligi-sempozyumu-bildiri-kitabi/) in the conference proceedings._
@@ -22,19 +23,10 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
   - **T. Tekdogan** and A. Cakmak • 2021 • 5th International Conference on Cloud and Big Data Computing (ICCBDC) • August 2021 • Published in the [ACM International Conference Proceedings Series (ICPS) 2021](https://dl.acm.org/doi/fullHtml/10.1145/3481646.3481649) • Pages 15–20 • [_arXiv preprint_](https://arxiv.org/abs/2209.10637)
 
 
----
-
-## Presentations
-
-- ### IISWC'22 Presentation  
-[<img src="./gh1.PNG" width="140">](https://youtu.be/HunX54vqUcc)
-
-- ### ICCBDC'21 Presentation
-[<img src="./gh2.PNG" width="140">](https://youtu.be/bikQj8yqIJw)
 
 ---
 
-## Education
+## Education 🎓
 
 - ### PhD • Technische Universität Berlin <img src="./tu.png" width="40">
   - Computer Science • 2023 - Now
@@ -47,13 +39,13 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
 
 ---
 
-## Experience
+## Experience 💼
 
 - ### Research Associate • TU Berlin <img src="./tu.png" width="50">
   - Dec 2023 - Now
 
 - ### Software Design Engineer • ASELSAN Inc.  <img src="./asel.jpg" width="50">
-  - Feb 2019 - Dec 2023
+  - Feb 2019 - Dec 2023 (4 years)
 
 - ### Intern • ASELSAN Inc.  <img src="./asel.jpg" width="50">
   - Jul - Aug 2018 (2 months)
@@ -61,10 +53,27 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
 - ### Intern • UDEA Electronics  <img src="./udea.png" width="60">
   - Aug - Sep 2017 (2 months)
 
+
+
 ---
 
-## Awards
+## Awards 🏆
 
 - ### Best Presentation Award
   - My presentation of the paper 'Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification' was awarded as the best presentation of the 2021 5th International Conference on Cloud and Big Data Computing, held at University of Liverpool, Liverpool, United Kingdom (virtual event) during August 13-15, 2021. [_Link to the conference page_](http://www.iccbdc.org/iccbdc21.html)
+
+
+---
+
+## Presentations 🎥
+
+- ### IISWC'22 Presentation  
+[<img src="./gh1.PNG" width="140">](https://youtu.be/HunX54vqUcc)
+
+- ### ICCBDC'21 Presentation
+[<img src="./gh2.PNG" width="140">](https://youtu.be/bikQj8yqIJw)
+
+
+
+
 
