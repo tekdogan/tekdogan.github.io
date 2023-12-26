@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Taha Tekdoğan
+title: Taha Tekdogan
 description: Research Associate - PhD Student
 logo: ./tt.jpg
+{% raw %}{% seo %}{% endraw %}
