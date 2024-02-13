@@ -2,7 +2,7 @@
 I am a research associate at [DIMA](https://www.tu.berlin/en/dima) / TU Berlin, and currently working on the project [NebulaStream](https://nebula.stream/).
 I am also a member of the graduate school of the [BIFOLD](https://www.bifold.berlin/) (Berlin Institute for the Foundations of Learning and Data).
 
-My research interests include Energy Efficiency, Benchmarking, and Performance Evaluation of the Distributed Stream Data Processing Systems.
+My research interests include Energy Efficiency, Benchmarking, and Performance Evaluation of the Distributed Streaming Processing Systems.
 
 ---
 
@@ -11,7 +11,7 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
 _(in reverse chronological order)_
 
 - ### GPGPU Application for Signal Processing – An Implementation for DDC Algorithm
-  - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • [Published](https://ekitap.atauni.edu.tr/index.php/16-ulusal-yazilim-muhendisligi-sempozyumu-bildiri-kitabi/) in the conference proceedings._
+  - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • [Published](https://ekitap.atauni.edu.tr/index.php/16-ulusal-yazilim-muhendisligi-sempozyumu-bildiri-kitabi/) in the conference proceedings.
 
 - ### Analyzing the Traffic of MANETs using Graph Neural Networks
   - **T. Tekdogan** • 2022 • International Conference on Machine Learning & Applied Network Technologies (ICMLANT) • December 2022 • _Published in the IEEE Conference Proceedings_ • [_IEEE Xplore link_](https://ieeexplore.ieee.org/document/9996518) • [_arXiv preprint_](https://arxiv.org/abs/2212.08923)
