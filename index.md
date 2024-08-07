@@ -10,6 +10,9 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
 ## Publications 📜
 _(in reverse chronological order)_
 
+- ### Using and Enhancing NebulaStream - A Tutorial
+  - S. Zeuch, A. Chaudhary, V. Rosenfeld, **T. Tekdogan**, A. Michalke, M. Goerdel, A. Ziehn, and V. Markl • 2024 • ACM International Conference on Distributed and Event-based Systems (DEBS '24) • _Published in the Proceedings of the 18th ACM International Conference on Distributed and Event-based Systems_ • Pages 212 - 216 • July 2024 • [DL ACM Link](https://dl.acm.org/doi/10.1145/3629104.3674126)
+
 - ### GPGPU Application for Signal Processing – An Implementation for DDC Algorithm
   - U. Bilgin, M. Sever, and **T. Tekdogan** • 2022 • Turkish National Software Engineering Symposium (UYMS) • December 2022 • [Published](https://ekitap.atauni.edu.tr/index.php/16-ulusal-yazilim-muhendisligi-sempozyumu-bildiri-kitabi/) in the conference proceedings.
 
