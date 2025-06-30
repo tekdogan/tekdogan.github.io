@@ -10,6 +10,9 @@ My research interests include Energy Efficiency, Benchmarking, and Performance E
 ## Publications 📜
 _(in reverse chronological order)_
 
+- ### NebulaStream: An Extensible, High-Performance Streaming Engine for Multi-Modal Edge Applications
+  - S. Zeuch, A. Michalke, A. Lepping, V. Markl, R. Martinez, N. Schubert, L. Schwerdtfeger, **T. Tekdogan**, A. Ziehn, C. Falkensteiner, K. Krueger, A. Meyer, T. Roeschl, and S. Wilkending • 2025 • ACM SIGMOD/PODS '25: Companion of the 2025 International Conference on Management of Data • _Published in the Proceedings of the SIGMOD/PODS'25_ • Pages 195 - 198 • June 2025 • [DL ACM Link](https://dl.acm.org/doi/10.1145/3722212.3725118)
+
 - ### Using and Enhancing NebulaStream - A Tutorial
   - S. Zeuch, A. Chaudhary, V. Rosenfeld, **T. Tekdogan**, A. Michalke, M. Goerdel, A. Ziehn, and V. Markl • 2024 • ACM International Conference on Distributed and Event-based Systems (DEBS '24) • _Published in the Proceedings of the 18th ACM International Conference on Distributed and Event-based Systems_ • Pages 212 - 216 • July 2024 • [DL ACM Link](https://dl.acm.org/doi/10.1145/3629104.3674126)
 
