@@ -65,6 +65,9 @@ _(in reverse chronological order)_
 
 ## Awards 🏆
 
+- ### Best Demo Honorable Mention
+  - Our demo 'NebulaStream: An extensible, high-performance streaming engine for multi-modal edge applications' received the best demo honorable mention in the SIGMOD 2025. [_Link to the conference page_](https://2025.sigmod.org/sigmod_awards.shtml)
+
 - ### Best Presentation Award
   - My presentation of the paper 'Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification' was awarded as the best presentation of the 2021 5th International Conference on Cloud and Big Data Computing, held at University of Liverpool, Liverpool, United Kingdom (virtual event) during August 13-15, 2021. [_Link to the conference page_](http://www.iccbdc.org/iccbdc21.html)
 
