@@ -70,19 +70,3 @@ _(in reverse chronological order)_
 
 - ### Best Presentation Award
   - My presentation of the paper 'Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification' was awarded as the best presentation of the 2021 5th International Conference on Cloud and Big Data Computing, held at University of Liverpool, Liverpool, United Kingdom (virtual event) during August 13-15, 2021. [_Link to the conference page_](http://www.iccbdc.org/iccbdc21.html)
-
-
----
-
-## Presentations 🎥
-
-- ### IISWC'22 Presentation  
-[<img src="./gh1.PNG" width="140">](https://youtu.be/HunX54vqUcc)
-
-- ### ICCBDC'21 Presentation
-[<img src="./gh2.PNG" width="140">](https://youtu.be/bikQj8yqIJw)
-
-
-
-
-
