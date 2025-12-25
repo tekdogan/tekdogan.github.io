@@ -2,7 +2,7 @@
 I am a PhD student at TU Berlin, supervised by [Prof. Volker Markl](https://www.tu.berlin/en/dima/about-us/prof-dr-volker-markl).
 I am also a member of the graduate school of the [BIFOLD](https://www.bifold.berlin/) (Berlin Institute for the Foundations of Learning and Data).
 
-My current research interest is benchmarking distributed streaming processing systems.
+My current research interest is benchmarking and workload characterization of the distributed stream processing systems.
 
 ---
 
