@@ -10,6 +10,9 @@ My current research interest is benchmarking and workload characterization of th
 ## Publications 📜
 _(in reverse chronological order)_
 
+- ### SECBench: A Benchmarking Framework for Stream Processing Systems in the Sensor-Edge-Cloud Continuum ![Full Paper](https://img.shields.io/badge/Full%20Paper-FF9999)
+  - **T. Tekdogan**, L. Schwerdtfeger, T. Rabl, S. Zeuch, V. Markl • 2026 • TPCTC'26 • Eighteenth TPC Technology Conference on Performance Evaluation & Benchmarking
+
 - ### NebulaStream: An Extensible, High-Performance Streaming Engine for Multi-Modal Edge Applications ![Demo Paper](https://img.shields.io/badge/Demo%20Paper-brightgreen) ![Best Demo Honorable Mention](https://img.shields.io/badge/Best%20Demo%20Honorable%20Mention-yellow)
   - S. Zeuch, A. Michalke, A. Lepping, V. Markl, R. Martinez, N. Schubert, L. Schwerdtfeger, **T. Tekdogan**, A. Ziehn, C. Falkensteiner, K. Krueger, A. Meyer, T. Roeschl, and S. Wilkending • 2025 • ACM SIGMOD/PODS '25: Companion of the 2025 International Conference on Management of Data • _Published in the Proceedings of the SIGMOD/PODS'25_ • Pages 195 - 198 • June 2025 • [DL ACM Link](https://dl.acm.org/doi/10.1145/3722212.3725118)
 
